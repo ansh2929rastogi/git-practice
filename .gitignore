@@ -16,8 +16,3 @@ env/
 *.rej
 *.class
 *.jar
-
-# Ignore node_modules
-node_modules/
-dist/
-build/
