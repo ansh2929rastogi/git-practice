@@ -1,0 +1,23 @@
+.DS_Store
+.ipynb_checkpoints
+__pycache__/
+*.pyc
+env/
+.vscode/
+.idea/
+*.log
+*.sqlite3
+*.env
+*.bak
+*.swp
+*.tmp
+*.old
+*.orig
+*.rej
+*.class
+*.jar
+
+# Ignore node_modules
+node_modules/
+dist/
+build/
